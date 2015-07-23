@@ -1,7 +1,15 @@
 # Hierarchical_Fragmentation
-수행평가때 냈던거까지 git 개설. 3D로 바꿀것임
 
-해야 할 것들 : 
-3D plotting
+ - Based on : **Processing**, **LaTeX**
+ - 일단 Github에 익숙해지도록 합시다.
+--------
+##Programming
+#3D plotting
+#RK4 method
+#3D random
 
-3D random
+##Theory
+#Maxwell-Boltzmann distribution
+
+##Thesis
+#asdf
